@@ -1,0 +1,38 @@
+{
+    "name": "react-native-rongta-printer",
+    "version": "1.0.0",
+    "description": "React Native module for connecting and printing via Rongta printers.",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Manoj936/Manoj936-react-native-rongta-printer.git"
+    },
+    "keywords": [
+      "react-native",
+      "rongta",
+      "printer",
+      "bluetooth",
+      "thermal-printer"
+    ],
+    "author": "Manoj936",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Manoj936/Manoj936-react-native-rongta-printer/issues"
+    },
+    "homepage": "https://github.com/Manoj936/Manoj936-react-native-rongta-printer#readme",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "prepare": "npm run build"
+    },
+    "dependencies": {
+      "react-native": ">=0.65.0"
+    },
+    "peerDependencies": {
+      "react-native": ">=0.65.0"
+    },
+    "devDependencies": {
+      "eslint": "^8.0.0"
+    },
+    "nativePackage": true
+  }
+  
